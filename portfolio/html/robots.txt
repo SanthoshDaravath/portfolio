@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://santhoshdaravath.github.io/portfolio/sitemap.xml
+Host: https://santhoshdaravath.github.io/portfolio
